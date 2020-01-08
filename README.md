@@ -1,1 +1,1 @@
-# lootbox-paper
+# lootbox-paper - click on "final paper"
