@@ -1,3 +1,12 @@
 # lootbox-paper - click on "final paper" or read below
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/1.JPG)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/2.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/3.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/4.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/5.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/6.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/7.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/8.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/9.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/10.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/11.JPG)
