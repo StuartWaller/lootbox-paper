@@ -10,3 +10,7 @@
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/9.JPG)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/10.JPG)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/11.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/12.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/13.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/14.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/15.JPG)
