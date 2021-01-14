@@ -1,5 +1,6 @@
 # lootbox-paper - click on "final paper" or read below
 For privacy reasons, please message me for a pdf copy.
+I apologize for the discontinuity amongst these images.
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/updated_image.PNG)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/2.JPG)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/3.JPG)
