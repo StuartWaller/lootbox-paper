@@ -1,5 +1,5 @@
 # lootbox-paper - click on "final paper" or read below
-![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/1.JPG)
+![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/updated_image)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/2.JPG)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/3.JPG)
 ![txt](https://github.com/StuartWaller/lootbox-paper/blob/master/4.JPG)
